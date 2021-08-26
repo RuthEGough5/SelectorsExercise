@@ -1,0 +1,37 @@
+body {
+    background-color: #CED4D8;
+}
+h1 {
+    color:#AC6AC7;   
+}
+h2 {
+    color:rgb(255,165,0);
+}
+li {
+    color: blue;
+}
+p {
+    background-color: gold;
+}
+input {
+    border: 5px dotted pink;
+}
+p.first {
+    background-color:#fff;
+}
+#important {
+    border: 3px dashed #058;
+}
+div > p {
+    font-size: 30px;
+  }
+  /* Number 11..., come back to this */
+div #Email {
+    background-color: #808080;
+  }
+  p:nth-of-type(3) {
+      background-color: hotpink
+  }
+ p {
+     border: 7px rgb(255, 255, 255)
+ }
